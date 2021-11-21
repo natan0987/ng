@@ -1,6 +1,11 @@
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
 .grid-2{
     display: grid;
     grid-template-columns: repeat(2,1fr);
